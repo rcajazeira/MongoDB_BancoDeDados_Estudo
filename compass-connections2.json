@@ -1,0 +1,62 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "49cba9aa-2845-43f4-ae00-90f86cc17807",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1750188882351"
+        }
+      },
+      "favorite": {
+        "name": "LocadoraDeVeiculos"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    },
+    {
+      "id": "4fb5f518-7709-4d8c-a001-321a47e95345",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1750180010623"
+        }
+      },
+      "favorite": {
+        "name": "HospitalDB"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    },
+    {
+      "id": "d4fbc9d5-1610-4950-874a-6526e81ff8d4",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1750092868291"
+        }
+      },
+      "favorite": {
+        "name": "Main"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
